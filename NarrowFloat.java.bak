@@ -1,0 +1,23 @@
+class NarrowLong
+{
+	public static void main(String[] args) 
+	{
+		byte a = (long) 100;
+		short b =(long) 100;
+		char c = (long) 'c';
+		int d =  (long) 100;
+		
+		
+		
+		
+		System.out.println(a);
+		System.out.println(b);
+		System.out.println(c);
+		System.out.println(d);
+		
+		
+			
+		
+		
+	}
+}
